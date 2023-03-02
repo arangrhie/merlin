@@ -1,0 +1,4 @@
+build/
+test/
+src/merlin/bk_*
+*.swp
