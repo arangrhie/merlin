@@ -3,4 +3,4 @@
 	url = https://github.com/marbl/meryl
 [submodule "src/utility"]
 	path = src/utility
-	url = https://github.com/marbl/meryl-utility.git
+	url = https://github.com/marbl/meryl-utility
